@@ -1,4 +1,4 @@
-# Titanic-Classification: Unveiling Who Would Have Survived
+#Bharat Intern Titanic-Classification: Unveiling Who Would Have Survived
 In the captivating journey:
 
 Data Mastery: We wield data wizardry, waving away missing values and taming categorical features, ensuring pristine data for analysis.
